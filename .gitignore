@@ -133,6 +133,5 @@ local.properties
 # Code Recommenders
 .recommenders/
 
-247/content
 config.php
 GCMRegId.txt
