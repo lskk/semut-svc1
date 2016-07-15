@@ -1,0 +1,3 @@
+<?php
+// Update your Google Cloud Messaging API Key
+define("GOOGLE_API_KEY", ""); 		
